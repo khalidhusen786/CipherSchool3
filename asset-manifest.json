@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CipherSchool3/static/css/main.07b4b6f6.chunk.css",
+    "main.js": "/CipherSchool3/static/js/main.b19f52ab.chunk.js",
+    "main.js.map": "/CipherSchool3/static/js/main.b19f52ab.chunk.js.map",
+    "runtime-main.js": "/CipherSchool3/static/js/runtime-main.be13821e.js",
+    "runtime-main.js.map": "/CipherSchool3/static/js/runtime-main.be13821e.js.map",
+    "static/js/2.04366a6d.chunk.js": "/CipherSchool3/static/js/2.04366a6d.chunk.js",
+    "static/js/2.04366a6d.chunk.js.map": "/CipherSchool3/static/js/2.04366a6d.chunk.js.map",
+    "index.html": "/CipherSchool3/index.html",
+    "static/css/main.07b4b6f6.chunk.css.map": "/CipherSchool3/static/css/main.07b4b6f6.chunk.css.map",
+    "static/js/2.04366a6d.chunk.js.LICENSE.txt": "/CipherSchool3/static/js/2.04366a6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be13821e.js",
+    "static/js/2.04366a6d.chunk.js",
+    "static/css/main.07b4b6f6.chunk.css",
+    "static/js/main.b19f52ab.chunk.js"
+  ]
+}
